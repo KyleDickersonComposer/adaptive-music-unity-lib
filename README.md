@@ -3,7 +3,6 @@ This is a Unity library that I plan to bundle with my bespoke music files and se
 
 Here is a link to the [Unity3D Audio Documentation.](https://docs.unity3d.com/ScriptReference/UnityEngine.AudioModule.html)
 
-
 ## Basics to be implemented
 - Volume Envelopes and Cross-fades
 - Tempo Track and Tempo Changes
@@ -16,4 +15,14 @@ Here is a link to the [Unity3D Audio Documentation.](https://docs.unity3d.com/Sc
 ## After the basics are implemented I will try to add some more experimental features for adaptive music like:
 - Smaller music blocks
 - Algorithmic composition of short music blocks
-- Using different grouping mechanisms than key and tempo grid (Arranging Concepts/Brantian Orchestration/Postmodern Music/Extreme Counterpoint/Crazy Pedals/Pitch Grouping/Continuous Discontinuity/Trash Beats)
+
+## Using different grouping mechanisms than key and tempo grid 
+- Arranging Concepts 
+- Brantian Orchestration 
+- Postmodern Music 
+- Extreme Counterpoint 
+- Crazy Pedals 
+- Pitch Grouping 
+- Continuous Discontinuity 
+- Trash Beats
+- Extreme rubato
